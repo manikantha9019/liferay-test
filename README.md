@@ -1,0 +1,2 @@
+# liferay-test
+Liferay test
